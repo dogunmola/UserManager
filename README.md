@@ -114,7 +114,7 @@ password: janedoe
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
 
-### containerizer.sh
+### containerizer.sh by Damilare Ogunmola
 
 This bash script starts up two Dccker containers - one for Node and the other for MongoDB
 
