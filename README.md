@@ -113,3 +113,14 @@ password: janedoe
 
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
+
+### containerizer.sh
+
+This bash script starts up two Dccker containers - one for Node and the other for MongoDB
+
+It sets the Node app to Port 3000.
+
+This can be run by using 
+```bash
+    bash containerizer.sh
+```
